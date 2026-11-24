@@ -1,0 +1,11 @@
+{
+  "version": "1.0.3",
+  "versionCode": 4,
+  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.0.3/schematiX-1.0.3.apk",
+  "sha256": "9b4bcc07393563ea4b5b81d060e3879bd9a58a08495ae27566e399e494ba3969",
+  "size": 14476934,
+  "notes": [
+    "Sur Android, les demandes de confirmation de mise à jour reprennent quand schematiX revient au premier plan.",
+    "En cas d’interruption de l’installation sur Android, le menu Mises à jour propose de réessayer ou de télécharger l’APK signé."
+  ]
+}
