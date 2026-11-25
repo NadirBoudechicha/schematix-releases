@@ -1,13 +1,11 @@
 {
-  "version": "1.1.5",
-  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.5/schematiX-1.1.5-Setup.exe",
-  "sha256": "374078c8b07f17707e179c54b68b27af33607f1cc92ea94f557583e34fbbb5b0",
-  "size": 145118874,
+  "version": "1.1.6",
+  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.6/schematiX-1.1.6-Setup.exe",
+  "sha256": "085e25b8f68558dd0c8520e8bf55ed29f7ec86feb0e5c3ab1247235108dfad16",
+  "size": 145122475,
   "notes": [
-    "Switches D-Link DGS-1100 V2, DGS-1510 et Cisco SG250-08/08HP avec transfert adapté au modèle.",
-    "Configurations Wi-Fi et pare-feu à copier ou télécharger, avec choix de version et scripts API pour les contrôleurs compatibles.",
-    "Import des ports, SSID et règles dans les fiches après analyse. Sauvegardes natives DGS-1100 conservées à l’identique.",
-    "Recherche de mises à jour Windows avec délai limité et second accès GitHub en cas de panne. Vérification relançable aussi depuis le site."
+    "Couleurs personnalisables sur les ports de switch (visibles directement dans la grille d’édition, couleur libre, application à tout un VLAN ou à tous les ports) et sur les groupes d’interfaces du pare-feu.",
+    "Les scripts de switches, bornes Wi-Fi et pare-feu peuvent désormais configurer l’adresse IP de gestion (masque et passerelle) et garder le SSH activé pour ne pas perdre la main."
   ],
-  "publishedAt": "2026-11-25T09:46:30.106Z"
+  "publishedAt": "2026-11-25T10:15:38.673Z"
 }
