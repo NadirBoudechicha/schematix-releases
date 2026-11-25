@@ -1,11 +1,12 @@
 {
-  "version": "1.1.6",
-  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.6/schematiX-1.1.6-Setup.exe",
-  "sha256": "085e25b8f68558dd0c8520e8bf55ed29f7ec86feb0e5c3ab1247235108dfad16",
-  "size": 145122475,
+  "version": "1.1.7",
+  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.7/schematiX-1.1.7-Setup.exe",
+  "sha256": "f8fe668c1af7d8223294fd9434ee10c557f3f1c2f80a2e709f726545ce9373cb",
+  "size": 145136654,
   "notes": [
-    "Couleurs personnalisables sur les ports de switch (visibles directement dans la grille d’édition, couleur libre, application à tout un VLAN ou à tous les ports) et sur les groupes d’interfaces du pare-feu.",
-    "Les scripts de switches, bornes Wi-Fi et pare-feu peuvent désormais configurer l’adresse IP de gestion (masque et passerelle) et garder le SSH activé pour ne pas perdre la main."
+    "Partage Live sur le même réseau local (LAN) : bouton Partager avec code de session modifiable, schéma en or quand le live est actif, curseurs (souris) en direct et édition collaborative temps réel.",
+    "Les invités conservent leur copie locale du schéma quand le live est désactivé ; dès que le créateur réactive le live, la carte redevient en or et redemande le code de session.",
+    "Export de configuration switch directement dans l’éditeur (avec IP de gestion, maintien SSH, enregistrement en mémoire et commandes de lecture), aligné avec Wi-Fi et pare-feu."
   ],
-  "publishedAt": "2026-11-25T10:15:38.673Z"
+  "publishedAt": "2026-11-25T10:50:30.508Z"
 }
