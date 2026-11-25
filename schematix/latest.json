@@ -1,11 +1,11 @@
 {
-  "version": "1.1.8",
-  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.8/schematiX-1.1.8-Setup.exe",
-  "sha256": "a1fa6e908924692d1a369dd32fae8eeb2a308c661038dad4c14a115fbfc9afa5",
-  "size": 145138591,
+  "version": "1.1.9",
+  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.9/schematiX-1.1.9-Setup.exe",
+  "sha256": "b703fc999964205cea06ef6aa1e111706211c97459c8fd36f699126c1369f15f",
+  "size": 145138616,
   "notes": [
-    "Import réel des sauvegardes natives D-Link DGS-1100 V2 (.cfg) : déblocage du sélecteur sans firmware obligatoire, décodage automatique des ports (Access/Trunk, PVID, VLANs autorisés, noms), des VLANs nommés et de l’IP de gestion tout en gardant la sauvegarde pour Restore.",
-    "Import complet des sauvegardes pare-feu FortiGate (.conf) : prise en charge des politiques multi-services, groupes de services, NAT, fsso, infos d’interfaces/VLANs et analyse automatique dès la sélection du fichier."
+    "Stabilité du partage Live LAN : suppression des timeouts HTTP/SSE de 5 minutes, ping temps réel toutes les 10 s, délai de grâce de 45 s et reconnexion automatique silencieuse lors des micro-coupures réseau ou d’inactivité.",
+    "Interface allégée : textes d’explication raccourcis à l’essentiel dans les modales Live et les panneaux d’import/export."
   ],
-  "publishedAt": "2026-11-25T11:41:29.440Z"
+  "publishedAt": "2026-11-25T13:46:57.093Z"
 }
