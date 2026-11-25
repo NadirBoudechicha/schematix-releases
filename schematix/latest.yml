@@ -1,11 +1,11 @@
-version: 1.1.9
+version: 1.1.10
 files:
-  - url: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.9/schematiX-1.1.9-Setup.exe
-    sha512: mK0BMYA9UZ3pRDOu1n6DbQ2whdcalxnTfQ8b8kRUyfg79cuijdPa8eRh1nOL5q4PFEliiwS1un05rN0TOpz6Ig==
-    size: 145138616
-path: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.9/schematiX-1.1.9-Setup.exe
-sha512: mK0BMYA9UZ3pRDOu1n6DbQ2whdcalxnTfQ8b8kRUyfg79cuijdPa8eRh1nOL5q4PFEliiwS1un05rN0TOpz6Ig==
-releaseDate: '2026-11-25T13:46:57.093Z'
+  - url: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.10/schematiX-1.1.10-Setup.exe
+    sha512: lE9YS4Rc+3aQJuJ2tflzU5mudtkiFNZWdURu3SJxxXWuxzbMbLWlR/12jAnZ02pvDqoLBShyrcQmoat4uYlZ7w==
+    size: 145143881
+path: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.10/schematiX-1.1.10-Setup.exe
+sha512: lE9YS4Rc+3aQJuJ2tflzU5mudtkiFNZWdURu3SJxxXWuxzbMbLWlR/12jAnZ02pvDqoLBShyrcQmoat4uYlZ7w==
+releaseDate: '2026-11-25T16:34:20.005Z'
 releaseNotes: |-
-  - Stabilité du partage Live LAN : suppression des timeouts HTTP/SSE de 5 minutes, ping temps réel toutes les 10 s, délai de grâce de 45 s et reconnexion automatique silencieuse lors des micro-coupures réseau ou d’inactivité.
-  - Interface allégée : textes d’explication raccourcis à l’essentiel dans les modales Live et les panneaux d’import/export.
+  - Révision complète modèle par modèle de tous les scripts CLI : switches (création des VLANs nommés sur toutes les marques, corrections Cisco IOS/XE/NX-OS/SG250, D-Link DGS-1510, Aruba AOS-CX/Switch, Dell OS6/OS9/OS10, Huawei VRP, HPE Comware et Juniper Junos EX), bornes Wi-Fi (FortiGate, Cisco 9800, MikroTik) et nouveau profil Routeur Cisco IOS/IOS XE (ACL étendues).
+  - Mode Android / téléphone revu en consultation seule avec support du partage Live LAN (schéma doré, curseurs en direct, mise à jour temps réel, copie locale conservée) et interface mobile épurée.
