@@ -1,12 +1,11 @@
 {
-  "version": "1.1.11",
-  "versionCode": 15,
-  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.11/schematiX-1.1.11.apk",
-  "sha256": "7b4c1fb972820274e5820cb53c6083a440cd5a5a92061cc3af2a4a060b40a417",
+  "version": "1.1.12",
+  "versionCode": 16,
+  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.12/schematiX-1.1.12.apk",
+  "sha256": "343ca4ac46bfae620388502524366cdf1c108455a4516e7aa337681a53774a2a",
   "size": 14538627,
   "notes": [
-    "Copie complète des configurations de switch. Les adresses de gestion annotées sont prises en compte, notamment sur le Cisco SG250.",
-    "Fiches switch et Wi-Fi simplifiées avec aperçu et options repliables, copie et téléchargement directs.",
-    "Création des plages VLAN et corrections des scripts D-Link, Junos, Catalyst 9800, RouterOS et FortiGate."
+    "Les blocs texte acceptent jusqu’à 2 000 caractères et conservent leurs retours à la ligne à l’enregistrement, à la copie et à l’import.",
+    "Le bouton Ajuster au texte adapte la largeur et la hauteur du bloc à son contenu."
   ]
 }
