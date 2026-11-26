@@ -1,11 +1,11 @@
-version: 1.1.12
+version: 1.1.13
 files:
-  - url: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.12/schematiX-1.1.12-Setup.exe
-    sha512: 5oiofdxCaN+Xo0uzZTCgPlaPS62rtzZeE5jhJ34PkFscYYWELpZKCydI12t60Eo4/BSRq2wVcpdRLgExiRT7IQ==
-    size: 145145641
-path: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.12/schematiX-1.1.12-Setup.exe
-sha512: 5oiofdxCaN+Xo0uzZTCgPlaPS62rtzZeE5jhJ34PkFscYYWELpZKCydI12t60Eo4/BSRq2wVcpdRLgExiRT7IQ==
-releaseDate: '2026-11-26T10:13:26.491Z'
+  - url: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.13/schematiX-1.1.13-Setup.exe
+    sha512: bgorG7OfDGX6hg/A9vXgCXZwqlvu0q6wPKxxu7V+LUFhYQDWnoPNAbdlbdZglHlMGVRZy5hAdK2IwGubwQ7k9w==
+    size: 145147633
+path: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.13/schematiX-1.1.13-Setup.exe
+sha512: bgorG7OfDGX6hg/A9vXgCXZwqlvu0q6wPKxxu7V+LUFhYQDWnoPNAbdlbdZglHlMGVRZy5hAdK2IwGubwQ7k9w==
+releaseDate: '2026-11-26T13:26:10.810Z'
 releaseNotes: |-
-  - Les blocs texte acceptent jusqu’à 2 000 caractères et conservent leurs retours à la ligne à l’enregistrement, à la copie et à l’import.
-  - Le bouton Ajuster au texte adapte la largeur et la hauteur du bloc à son contenu.
+  - Nouveaux switchs HP / Aruba : toute la gamme HP 2530 (dont le 2530-48), Aruba 2540 et 2930F, avec leurs scripts ArubaOS-Switch.
+  - Chaque modèle crée ses ports, jusqu’à 52, et signale une vitesse ou un PoE que le port ne prend pas en charge.
