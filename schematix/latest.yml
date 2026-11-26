@@ -1,11 +1,12 @@
-version: 1.1.10
+version: 1.1.11
 files:
-  - url: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.10/schematiX-1.1.10-Setup.exe
-    sha512: lE9YS4Rc+3aQJuJ2tflzU5mudtkiFNZWdURu3SJxxXWuxzbMbLWlR/12jAnZ02pvDqoLBShyrcQmoat4uYlZ7w==
-    size: 145143881
-path: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.10/schematiX-1.1.10-Setup.exe
-sha512: lE9YS4Rc+3aQJuJ2tflzU5mudtkiFNZWdURu3SJxxXWuxzbMbLWlR/12jAnZ02pvDqoLBShyrcQmoat4uYlZ7w==
-releaseDate: '2026-11-25T16:34:20.005Z'
+  - url: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.11/schematiX-1.1.11-Setup.exe
+    sha512: 7CZ3/NIgii6+/zQNiTMhVNLPtUwMR+6wLjZz3OKXMSKfSFCOJ2lj2Ibw8NxN2eof82/0CyU8GWA9CXipqxxGeg==
+    size: 145145152
+path: https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.11/schematiX-1.1.11-Setup.exe
+sha512: 7CZ3/NIgii6+/zQNiTMhVNLPtUwMR+6wLjZz3OKXMSKfSFCOJ2lj2Ibw8NxN2eof82/0CyU8GWA9CXipqxxGeg==
+releaseDate: '2026-11-26T09:22:53.046Z'
 releaseNotes: |-
-  - Révision complète modèle par modèle de tous les scripts CLI : switches (création des VLANs nommés sur toutes les marques, corrections Cisco IOS/XE/NX-OS/SG250, D-Link DGS-1510, Aruba AOS-CX/Switch, Dell OS6/OS9/OS10, Huawei VRP, HPE Comware et Juniper Junos EX), bornes Wi-Fi (FortiGate, Cisco 9800, MikroTik) et nouveau profil Routeur Cisco IOS/IOS XE (ACL étendues).
-  - Mode Android / téléphone revu en consultation seule avec support du partage Live LAN (schéma doré, curseurs en direct, mise à jour temps réel, copie locale conservée) et interface mobile épurée.
+  - Copie complète des configurations de switch. Les adresses de gestion annotées sont prises en compte, notamment sur le Cisco SG250.
+  - Fiches switch et Wi-Fi simplifiées avec aperçu et options repliables, copie et téléchargement directs.
+  - Création des plages VLAN et corrections des scripts D-Link, Junos, Catalyst 9800, RouterOS et FortiGate.
