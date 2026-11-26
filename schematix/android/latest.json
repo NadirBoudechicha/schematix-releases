@@ -1,11 +1,12 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.0.3/schematiX-1.0.3.apk",
-  "sha256": "9b4bcc07393563ea4b5b81d060e3879bd9a58a08495ae27566e399e494ba3969",
-  "size": 14476934,
+  "version": "1.1.11",
+  "versionCode": 15,
+  "downloadUrl": "https://github.com/NadirBoudechicha/schematix-releases/releases/download/v1.1.11/schematiX-1.1.11.apk",
+  "sha256": "7b4c1fb972820274e5820cb53c6083a440cd5a5a92061cc3af2a4a060b40a417",
+  "size": 14538627,
   "notes": [
-    "Sur Android, les demandes de confirmation de mise à jour reprennent quand schematiX revient au premier plan.",
-    "En cas d’interruption de l’installation sur Android, le menu Mises à jour propose de réessayer ou de télécharger l’APK signé."
+    "Copie complète des configurations de switch. Les adresses de gestion annotées sont prises en compte, notamment sur le Cisco SG250.",
+    "Fiches switch et Wi-Fi simplifiées avec aperçu et options repliables, copie et téléchargement directs.",
+    "Création des plages VLAN et corrections des scripts D-Link, Junos, Catalyst 9800, RouterOS et FortiGate."
   ]
 }
